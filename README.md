@@ -4,6 +4,7 @@
 [![CocoaPods](https://img.shields.io/cocoapods/v/Nimble.svg)](https://cocoapods.org/pods/Nimble)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Platforms](https://img.shields.io/cocoapods/p/Nimble.svg)](https://cocoapods.org/pods/Nimble)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FNimble.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FNimble?ref=badge_shield)
 
 Use Nimble to express the expected outcomes of Swift
 or Objective-C expressions. Inspired by
@@ -1711,3 +1712,7 @@ rm "${SWIFT_STDLIB_TOOL_DESTINATION_DIR}/libswiftXCTest.dylib"
 
 You can now use Nimble assertions in your code and handle failures as you see
 fit.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FNimble.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FNimble?ref=badge_large)
